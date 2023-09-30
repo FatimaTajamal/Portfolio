@@ -133,7 +133,7 @@
 .Title {
   width: 295px;
   height: 36px;
-  font-family: Poppins;
+  font-family: Poppins, sans-serif;
   font-size: 32px;
   font-weight: 700;
   line-height: 44px;
@@ -164,7 +164,7 @@
   width: 295px;
   height: 76px;
   font-style: body / 3;
-  font-family: Poppins;
+  font-family: Poppins, sans-serif;
   font-size: 15px;
   font-weight: 400;
   line-height: 24px;
@@ -221,7 +221,7 @@ li span {
   width: 102px;
   height: 24px;
   font-style: button /normal;
-  font-family: Poppins;
+  font-family: Poppins, sans-serif;
   font-size: 17px;
   font-weight: 500;
   line-height: 24px;
@@ -233,7 +233,7 @@ li span {
 .Project-Title {
   width: 295px;
   height: 80px;
-  font-family: Poppins;
+  font-family: Poppins, sans-serif;
   font-size: 32px;
   font-weight: 700;
   line-height: 44px;

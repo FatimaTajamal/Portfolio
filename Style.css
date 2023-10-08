@@ -9,7 +9,7 @@ body {
   max-width: 1440px;
   height: 846px;
   gap: 12px;
-  background-image: url(/bi.png);
+  background-image: url(../bi.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -439,7 +439,7 @@ li span {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  background-image: url(./About.png);
+  background-image: url(../About.png);
   background-size: cover;
   background-position: top right;
   background-repeat: no-repeat, repeat;
@@ -576,7 +576,7 @@ li span {
   width: 1340px;
   top: 5500px;
   height: auto;
-  background-image: url(/shapes1.png), url(/Background.png);
+  background-image: url(../shapes1.png), url(../Background.png);
   background-size: cover;
   background-position: cover, top left;
   background-repeat: no-repeat, repeat;

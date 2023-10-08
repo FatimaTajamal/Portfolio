@@ -576,7 +576,7 @@ li span {
   width: 1340px;
   top: 5500px;
   height: auto;
-  background-image: url(../shapes1.png), url(../Background.png);
+  background-image: url(./shapes1.png), url(./Background.png);
   background-size: cover;
   background-position: cover, top left;
   background-repeat: no-repeat, repeat;

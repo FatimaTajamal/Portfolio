@@ -6,7 +6,7 @@ body {
 }
 
 .container {
-   max-width: 1440px;
+  max-width: 1440px;
   height: 846px;
   gap: 12px;
   background-image: url(/bi.png);
@@ -239,8 +239,6 @@ body {
   padding: 2rem;
   background: #f7f7f9;
 }
-
-
 
 /* Fade-in animation */
 @keyframes fadeIn {
@@ -575,7 +573,7 @@ li span {
 
 /* Base styles for all screen sizes */
 .contactcontainer {
-  width: 1400x;
+  width: 1340px;
   top: 5500px;
   height: auto;
   background-image: url(/shapes1.png), url(/Background.png);
@@ -630,8 +628,9 @@ li span {
   height: 48px; /* Keep height consistent for both input and textarea */
   border-radius: 6px;
   border: 1px solid rgba(207, 216, 220, 1);
-  background-color: linear-gradient(0deg, #cfd8dc, #cfd8dc),
-                    linear-gradient(0deg, #fff, #fff);
+  background-color:
+    linear-gradient(0deg, #cfd8dc, #cfd8dc),
+    linear-gradient(0deg, #fff, #fff);
   margin-top: 20px; /* Adjusted margin for better centering */
 }
 
@@ -648,8 +647,9 @@ li span {
   margin-top: 20px;
   border-radius: 6px;
   border: 1px solid rgba(207, 216, 220, 1);
-  background-color: linear-gradient(0deg, #cfd8dc, #cfd8dc),
-                    linear-gradient(0deg, #fff, #fff);
+  background-color:
+    linear-gradient(0deg, #cfd8dc, #cfd8dc),
+    linear-gradient(0deg, #fff, #fff);
 }
 
 .lastbutton {
@@ -669,8 +669,8 @@ li span {
 .btext {
   width: 110px;
   height: 24px;
-  font-style: Button /Normal;
-  font-family: Poppins;
+  font-style: button /normal;
+  font-family: Poppins, sans-serif;
   font-size: 17px;
   font-weight: 500;
   line-height: 24px;
@@ -691,4 +691,3 @@ li span {
     font-size: 32px; /* Adjust font size for small screens */
   }
 }
-

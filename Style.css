@@ -9,7 +9,7 @@ body {
   max-width: 1440px;
   height: 846px;
   gap: 12px;
-  background-image: url(../bi.png);
+  background-image: url(./bi.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

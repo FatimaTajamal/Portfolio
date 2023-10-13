@@ -593,7 +593,7 @@
   .contactcontainer {
     width: 90%;
     top: 5410px;
-    background-image: url(/shapes.png), url(/Contact-me.png);
+    background-image: url(./shapes.png), url(./Contact-me.png);
     background-size: 265px 709.17px, cover;
     background-position: right, center center;
     margin-top: 20%;
